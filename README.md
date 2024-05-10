@@ -1,2 +1,2 @@
 # git_test
-Hello Odin! I am testing out commits on VSCode.
+Hello Odin! I am testing out commits on VSCode
